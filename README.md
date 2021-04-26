@@ -11,7 +11,7 @@ Installation
 3. Install Jmeter for performance testing
 4. Install Postman to test calls to APIs.
 
-Requests
+Requests (Make sure that the application is up and running while performing these requests)
 
 #GET
 http://localhost:8081/myRetail/products
